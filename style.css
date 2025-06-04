@@ -1,0 +1,36 @@
+body {
+  background-color: lightblue;
+  font-family: 'Roboto', Arial, sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+.card {
+  background: #fff;
+  border: 1px solid #cce;
+  border-radius: 12px;
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 2rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  color: darkblue;
+}
+
+h2 {
+  font-size: 1.7rem;
+  text-align: center;
+  color: slategray;
+}
+
+p {
+  font-family: 'Roboto', Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Blank CSS file */
